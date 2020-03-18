@@ -1,0 +1,20 @@
+{
+    "title": "Node.js tutorial",
+    "repo": "for reals",
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Initialise NPM project",
+            "description": "Use `npm init` to initialise the current directory as an NPM project",
+            "command": "node",
+            "filename": "test.js"
+        },
+        {
+            "id": 2,
+            "title": "Add Express package",
+            "description": "",
+            "command": "node",
+            "filename": "test.js"
+        }
+    ]
+}
